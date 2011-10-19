@@ -1,0 +1,11 @@
+This repository contains random things that I built, often for no reason whatsoever.
+
+You are free to use what is here without limitation, but also note that I do not provide
+a warranty.
+
+ag.mackenzie.httpd: The basis for a super simple web server that supports keep-alive.
+
+Cheers,
+Matt MacKenzie matt AT mackenzie DOT ag
+
+
